@@ -1,2 +1,2 @@
 # python_practice
-Practised some basic python concepts
+Basic python concept excersices
